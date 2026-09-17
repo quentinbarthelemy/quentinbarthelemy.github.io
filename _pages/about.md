@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Accueil
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Professeur des CM à l'école de Saint-Paul-Cap-de-Joux. Anciennement chercheur en physique quantique. 
 
 profile:
   align: right
