@@ -23,7 +23,7 @@ calendar: true
 
 ### Emploi du temps
 
-[Période 1](assets/pdf/emploi_du_temps_quentin.pdf)
+[Période 1](/assets/pdf/emploi_du_temps_quentin.pdf)
 
 ### Programmation et progression en *Grammaire et orthographe grammaticale*
 
