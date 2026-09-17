@@ -15,7 +15,7 @@ calendar: true
 - *Grammaire et orthographe grammaticale (GRAM) :* Apprendre la leçon sur les groupes dans la phrase.  
 
 **Pour le mardi 22/9 :**  
-- Préparer la dictée flash 3  
+- Préparer la dictée flash 3.  
 - *Procédures de calcul mental (PCM) :* Apprendre la leçon sur ajouter ou soustraire 8, 9, 18, 19, 28, 29, 38, 39.  
 
 **Pour le jeudi 24/9 :**  
