@@ -10,7 +10,7 @@ calendar: true
 
 ## Emploi du temps  
 
-![Emploi du temps](/assets/img/edt.jpg)
+{% include figure.liquid loading="eager" path="assets/img/edt.jpg" class="img-fluid rounded z-depth-1" %}  
 
 ## Devoirs  
 
