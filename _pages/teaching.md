@@ -25,7 +25,9 @@ calendar: true
 
 [Période 1](/assets/pdf/emploi_du_temps_quentin.pdf)
 
-### Programmation et progression en *Grammaire et orthographe grammaticale*
+### Programmations et progressions
+
+[Grammaire et orthographe grammaticale](/assets/pdf/programmation_progression_francais_quentin.pdf)
 
 ### Programmation et progression en *Nombres, calculs et résolution de problèmes*
 
