@@ -1,0 +1,11 @@
+---
+---
+@import "al-folio";
+
+/* Importer une police Google Fonts (ex: Roboto) */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Surcharger la police sur tout le site */
+body, p, h1, h2, h3, h4, h5, h6, span, div, a {
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
+}
