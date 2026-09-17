@@ -22,10 +22,6 @@ calendar: true
 - Corriger la dictée flash 3 pour préparer la dictée bilan 3.  
 
 ### Scores des maisons
-- Phénix :
-- Pégase :
-- Sphinx :
-
 <!-- Style des sabliers Harry Potter -->
 <style>
   .hp-compteurs-container {
@@ -132,7 +128,7 @@ calendar: true
   
   <!-- Maison 1 -->
   <div class="hp-maison maison-1">
-    <div class="hp-nom-maison">Maison 1</div>
+    <div class="hp-nom-maison">Phénix</div>
     <div class="hp-sablier">
       <div class="hp-sablier-verre"></div>
       <div class="hp-gemmes" id="gemmes-m1"></div>
@@ -142,7 +138,7 @@ calendar: true
 
   <!-- Maison 2 -->
   <div class="hp-maison maison-2">
-    <div class="hp-nom-maison">Maison 2</div>
+    <div class="hp-nom-maison">Pégase</div>
     <div class="hp-sablier">
       <div class="hp-sablier-verre"></div>
       <div class="hp-gemmes" id="gemmes-m2"></div>
@@ -152,7 +148,7 @@ calendar: true
 
   <!-- Maison 3 -->
   <div class="hp-maison maison-3">
-    <div class="hp-nom-maison">Maison 3</div>
+    <div class="hp-nom-maison">Sphinx</div>
     <div class="hp-sablier">
       <div class="hp-sablier-verre"></div>
       <div class="hp-gemmes" id="gemmes-m3"></div>
@@ -165,12 +161,12 @@ calendar: true
 <!-- Script de mise à jour des scores -->
 <script>
   // 1. DÉFINISSEZ VOS SCORES ET LE SCORE MAXIMUM ICI :
-  const maxPoints = 200; // Le score qui remplit le sablier à 100%
+  const maxPoints = 100; // Le score qui remplit le sablier à 100%
   
   const scores = {
-    m1: 140, // Score Maison 1
-    m2: 95,  // Score Maison 2
-    m3: 175  // Score Maison 3
+    m1: 24, // Score Maison 1
+    m2: 24,  // Score Maison 2
+    m3: 24  // Score Maison 3
   };
 
   // 2. Application dynamique avec animation
