@@ -29,7 +29,7 @@ calendar: true
 
 [Grammaire et orthographe grammaticale](/assets/pdf/programmation_progression_francais_quentin.pdf)
 
-### Programmation et progression en *Nombres, calculs et résolution de problèmes*
+[Nombres, calculs et résolution de problèmes](/assets/pdf/programmation_progression_francais_quentin.pdf)
 
 <!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %} -->
 
