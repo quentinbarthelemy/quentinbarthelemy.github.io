@@ -8,10 +8,10 @@ nav_order: 1
 calendar: true
 ---
 
-## Devoirs  
+### Devoirs  
 
 **Pour le lundi 21/9 :**  
-- *EPS :* Répondre à la question : Comment améliorer ma performance en course de durée ?  
+- *EPS :* Répondre à la question : *Comment améliorer ma performance en course de durée ?*  
 - *Grammaire et orthographe grammaticale (GRAM) :* Apprendre la leçon sur les groupes dans la phrase.  
 
 **Pour le mardi 22/9 :**  
@@ -21,9 +21,13 @@ calendar: true
 **Pour le jeudi 24/9 :**  
 - Corriger la dictée flash 3 en prévision de la dictée bilan 3  
 
-## Emploi du temps en période 1
+### Scores des maisons
+- Phénix :
+- Pégase :
+- Sphinx :
 
-{% include figure.liquid loading="eager" path="assets/img/edt.jpg" class="img-fluid rounded z-depth-1" %}
+### Emploi du temps en période 1  
+{% include figure.liquid loading="eager" path="assets/img/edt.jpg" class="img-fluid rounded z-depth-1" %}  
 
 <!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %} -->
 
