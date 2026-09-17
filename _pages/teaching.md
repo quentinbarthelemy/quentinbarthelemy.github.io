@@ -21,7 +21,9 @@ calendar: true
 **Pour le jeudi 24/9 :**  
 - Corriger la dictée flash 3 pour préparer la dictée bilan 3.
 
-### Emploi du temps en période 1
+### Emploi du temps
+
+[Période 1](assets/pdf/emploi_du_temps_quentin.pdf)
 
 ### Programmation et progression en *Grammaire et orthographe grammaticale*
 
