@@ -19,7 +19,7 @@ calendar: true
 - *Procédures de calcul mental (PCM) :* Apprendre la leçon sur ajouter ou soustraire 8, 9, 18, 19, 28, 29, 38, 39.  
 
 **Pour le jeudi 24/9 :**  
-- Corriger la dictée flash 3 en prévision de la dictée bilan 3  
+- Corriger la dictée flash 3 pour préparer la dictée bilan 3.  
 
 ### Scores des maisons
 - Phénix :
