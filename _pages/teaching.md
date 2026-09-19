@@ -23,7 +23,7 @@ calendar: true
 
 ### Organisation
 
-_Doivent être rangés dans le classeur :_
+_**Doivent être rangés dans le classeur (à prendre à la maison le mardi soir et à ramener en classe le lundi matin) :**_
 
 -	Les textes support de Grammaire et orthographe grammaticale, distribués une fois par période (pochettes perforées, intercalaire GRAM). Pour chaque lundi, un nouveau texte est à préparer (lecture, compréhension, repérage).
 -	Les activités de découverte de Grammaire et orthographe grammaticale du lundi (pochettes perforées, intercalaire GRAM).
@@ -39,7 +39,7 @@ _Doivent être rangés dans le classeur :_
 
 -	Les évaluations (intercalaire EVAL).
 
-_Doivent figurer dans le cahier du jour violet (à prendre à la maison le mardi soir et à ramener en classe le lundi matin) :_
+_**Doivent figurer dans le cahier du jour violet (à prendre à la maison le mardi soir et à ramener en classe le lundi matin) :**_
 
 -	Les dictées flash du mardi, écrites en sautant des lignes pour se corriger. Je les passe en revue le mardi midi, je les annote avec le code de correction. Elles sont à corriger à la maison d’ici au jeudi pour préparer la dictée bilan.  
 -	Les exercices de Grammaire et orthographe grammaticale rédigés en recopiant les consignes (sauf mention contraire de ma part) et en sautant des lignes pour se corriger. Les exercices avec le symbole ✍️ doivent être terminés et corrigés à la maison d’ici au lundi. J’encourage à faire de même pour les exercices avec le symbole ♠️.
