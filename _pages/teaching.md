@@ -45,9 +45,38 @@ nav_order: 1
 - L'agenda.  
 - Le cahier de liaison.  
 - Le cahier du jour violet (corriger la dictée flash pour préparer la dictée bilan du jeudi, poursuivre les exercices pour le lundi).  
-- L'ensemble des documents nécessaires aux devoirs (par exemple, un texte support de Grammaire et orthographe grammaticale est à préparer pour le lundi, la leçon de Procédures de calcul mental est à apprendre pour le lundi, ...). Pour n'oublier aucun document, la solution la plus simple est de prendre le classeur entier.
-{: style="margin-bottom: 0px;"}  
+- L'ensemble des documents nécessaires aux devoirs (par exemple, un texte support de Grammaire et orthographe grammaticale est à préparer pour le lundi, la leçon de Procédures de calcul mental est à apprendre pour le lundi, ...). Pour n'oublier aucun document, la solution la plus simple est de prendre le classeur entier.  
 
 ### Emploi du temps  
 
 [Période 1](/assets/pdf/emploi_du_temps_quentin.pdf)  
+
+<style>
+/* 1. Espacement plus marqué entre les sections (ex: les balises h2 ou h3) */
+h2, h3 {
+  margin-top: 2.5rem !important;
+  margin-bottom: 1rem !important;
+}
+
+/* 2. Espace plus faible entre les lignes d'un même paragraphe */
+p {
+  line-height: 1.35 !important; /* Valeur par défaut de Distill souvent autour de 1.6 ou 1.7 */
+  margin-bottom: 0.8rem !important;
+}
+
+/* 3. Espace plus faible entre les points d'une même liste */
+ul li, ol li {
+  margin-bottom: 0.2rem !important; /* Réduit l'espace vertical entre chaque <li> */
+  line-height: 1.35 !important;
+}
+
+/* 4. Mettre de la couleur sur certains titres ciblés */
+/* Exemple : Colorer un titre spécifique via une classe ou un ID */
+.title-accent-blue {
+  color: #1e88e5 !important;
+}
+
+.title-accent-purple {
+  color: #8e24aa !important;
+}
+</style>
