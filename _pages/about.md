@@ -4,7 +4,7 @@ title: Accueil
 permalink: /
 subtitle: >
     <p>Professeur des CM à l'école primaire publique de Saint-Paul-Cap-de-Joux.</p>
-    <p>Anciennement chercheur en physique quantique.</p>
+    <p>Dans une autre vie, chercheur en physique quantique.</p>
 
 profile:
   align: left
