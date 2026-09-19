@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 
 toc:
-  - title: Table des matières
+  - toc-title: Table des matières
   - name: Devoirs
     subsections:
       - name: Lundi 28 septembre 
