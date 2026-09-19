@@ -33,20 +33,22 @@ nav_order: 1
 ##### Doivent figurer dans le cahier du jour violet :  
 - Les dictées flash du mardi, écrites en sautant des lignes pour se corriger. Je les passe en revue le mardi midi, je les annote avec le code de correction. Elles sont à corriger à la maison d’ici au jeudi pour préparer la dictée bilan.  
 -	Les exercices de Grammaire et orthographe grammaticale rédigés en recopiant les consignes (sauf mention contraire de ma part) et en sautant des lignes pour se corriger. Les exercices avec le symbole &#9997; doivent être terminés et corrigés à la maison d’ici au lundi. J’encourage à faire de même pour les exercices avec le symbole &spades;.
--	Les exercices de Nombres, calculs et résolution de problèmes rédigés sans recopier les consignes et en laissant de la place pour se corriger. Les exercices avec le symbole &#9997; doivent être terminés et corrigés à la maison d’ici au lundi. J’encourage à faire de même pour les exercices avec le symbole &spades;.  
+-	Les exercices de Nombres, calculs et résolution de problèmes rédigés sans recopier les consignes et en laissant de la place pour se corriger. Les exercices avec le symbole &#9997; doivent être terminés et corrigés à la maison d’ici au lundi. J’encourage à faire de même pour les exercices avec le symbole &spades;.
 
-##### À prendre à la maison le mardi soir :  
+##### Que faut-il prendre dans le cartable le lundi soir ?  
 - L'agenda.  
-- Le cahier du jour violet.
-- Le classeur entier (préférable en début d'année) ou une pochette contenant l'ensemble des documents nécessaires aux devoirs.
-- Le cahier de liaison.
+- Le cahier de liaison.  
+- La leçon de Grammaire et orthographe grammaticale (à apprendre pour le mardi).  
+- La leçon de Nombres, calculs et résolution de problèmes (à apprendre pour le mardi).  
+Pour n'oublier aucune leçon, la solution la plus simple est de prendre le classeur entier.  
 
-### Emploi du temps
+##### Que faut-il prendre dans le cartable le mardi soir ? 
+- L'agenda.  
+- Le cahier de liaison.  
+- Le cahier du jour violet (corriger la dictée flash pour préparer la dictée bilan du jeudi, poursuivre les exercices pour le lundi).  
+- L'ensemble des leçons nécessaires aux devoirs (ex. la leçon de Procédures de calcul mental est à apprendre pour le lundi).  
+Pour n'oublier aucune leçon, la solution la plus simple est de prendre le classeur entier.  
 
-[Période 1](/assets/pdf/emploi_du_temps_quentin.pdf)
+### Emploi du temps  
 
-### Programmations et progressions
-
-[Grammaire et orthographe grammaticale](/assets/pdf/programmation_progression_francais_quentin.pdf)
-
-[Nombres, calculs et résolution de problèmes](/assets/pdf/programmation_progression_francais_quentin.pdf)
+[Période 1](/assets/pdf/emploi_du_temps_quentin.pdf)  
