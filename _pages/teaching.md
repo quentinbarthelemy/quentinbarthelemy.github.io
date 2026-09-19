@@ -5,7 +5,16 @@ title: Enseignement
 description:
 nav: true
 nav_order: 1
-calendar: true
+
+toc:
+  - name: Devoirs
+    subsections:
+      - name: Lundi 28 septembre 
+      - name: Mardi 29 septembre
+      - name: Jeudi 1er octobre
+  - name: Organisation
+  - name: Emploi du temps
+  - name: Programmations et progressions
 ---
 
 ### Devoirs  
