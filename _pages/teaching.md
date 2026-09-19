@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: distill
 permalink: /teaching/
 title: Enseignement
 description:
