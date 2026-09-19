@@ -17,6 +17,22 @@ toc:
   - name: Programmations et progressions
 ---
 
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Attend que le composant Distill soit chargé
+    customElements.whenDefined('d-contents').then(() => {
+      const toc = document.querySelector('d-contents');
+      if (toc) {
+        // Accède au shadow DOM du composant s'il existe
+        const header = (toc.shadowRoot || toc).querySelector('h3, .dt-toc-header');
+        if (header) {
+          header.textContent = "Table des matières";
+        }
+      }
+    });
+  });
+</script>
+
 ### Devoirs  
 
 **Pour le lundi 21/9 :**  
