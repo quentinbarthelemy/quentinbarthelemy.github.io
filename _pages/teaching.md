@@ -39,15 +39,14 @@ nav_order: 1
 - L'agenda.  
 - Le cahier de liaison.  
 - La leçon de Grammaire et orthographe grammaticale (à apprendre pour le mardi).  
-- La leçon de Nombres, calculs et résolution de problèmes (à apprendre pour le mardi).  
-Pour n'oublier aucune leçon, la solution la plus simple est de prendre le classeur entier.  
+- La leçon de Nombres, calculs et résolution de problèmes (à apprendre pour le mardi). Pour n'oublier aucune leçon, la solution la plus simple est de prendre le classeur entier.  
 
 ###### Que faut-il prendre dans le cartable le mardi soir ? 
 - L'agenda.  
 - Le cahier de liaison.  
 - Le cahier du jour violet (corriger la dictée flash pour préparer la dictée bilan du jeudi, poursuivre les exercices pour le lundi).  
-- L'ensemble des documents nécessaires aux devoirs (ex. la leçon de Procédures de calcul mental est à apprendre pour le lundi).  
-Pour n'oublier aucun document, la solution la plus simple est de prendre le classeur entier.  
+- L'ensemble des documents nécessaires aux devoirs (par exemple, un texte support de Grammaire et orthographe grammaticale est à préparer pour le lundi, la leçon de Procédures de calcul mental est à apprendre pour le lundi, ...). Pour n'oublier aucun document, la solution la plus simple est de prendre le classeur entier.
+{: style="margin-bottom: 0px;"}  
 
 ### Emploi du temps  
 
