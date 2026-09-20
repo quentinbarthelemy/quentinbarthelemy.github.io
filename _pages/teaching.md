@@ -7,7 +7,7 @@ nav: true
 nav_order: 1  
 ---
 
-# Devoirs  
+# Devoirs {.title-accent-blue}  
 
 ## Pour le lundi 28/9 :  
 
