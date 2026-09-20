@@ -7,7 +7,7 @@ nav: true
 nav_order: 1  
 ---
 
-# Devoirs {.title-accent-blue}  
+<h1 class="title-accent-blue">Devoirs</h1> 
 
 ## Pour le lundi 28/9 :  
 
