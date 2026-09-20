@@ -7,7 +7,7 @@ nav: true
 nav_order: 1  
 ---
 
-<h2 class="title-accent-blue">Devoirs</h2>  
+## Devoirs  
 
 ### Pour le lundi 28/9 :  
 
@@ -17,7 +17,7 @@ nav_order: 1
 
 ### Pour le vendredi 25/9 :  
 
-<h2 class="title-accent-blue">Guide à l'usage des élèves et des familles</h2>  
+## Guide à l'usage des élèves et des familles  
 
 ### Doivent être rangés dans le classeur :  
 -	Les textes support de Grammaire et orthographe grammaticale, distribués une fois par période (pochettes perforées, intercalaire GRAM). Pour chaque lundi, un nouveau texte est à préparer (lecture, compréhension, repérage).  
@@ -47,7 +47,7 @@ nav_order: 1
 - Le cahier du jour violet (corriger la dictée flash pour préparer la dictée bilan du jeudi, poursuivre les exercices pour le lundi).  
 - L'ensemble des documents nécessaires aux devoirs (par exemple, un texte support de Grammaire et orthographe grammaticale est à préparer pour le lundi, la leçon de Procédures de calcul mental est à apprendre pour le lundi, ...). Pour n'oublier aucun document, la solution la plus simple est de prendre le classeur entier.  
 
-<h2 class="title-accent-blue">Emploi du temps</h2>  
+## Emploi du temps  
 
 [Période 1](/assets/pdf/emploi_du_temps_quentin.pdf)  
 
@@ -70,13 +70,4 @@ ul li, ol li {
   line-height: 1.35 !important;
 }
 
-/* 4. Mettre de la couleur sur certains titres ciblés */
-/* Exemple : Colorer un titre spécifique via une classe ou un ID */
-.title-accent-blue {
-  color: #1e88e5 !important;
-}
-
-.title-accent-purple {
-  color: #8e24aa !important;
-}
 </style>
