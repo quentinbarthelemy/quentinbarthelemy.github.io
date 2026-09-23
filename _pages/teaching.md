@@ -3,8 +3,8 @@ layout: distill
 permalink: /teaching/  
 title: Enseignement  
 description:  
-nav: true  
-nav_order: 1  
+nav: false  
+nav_order: 0  
 ---
 
 ## Devoirs  
